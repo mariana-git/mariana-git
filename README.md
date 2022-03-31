@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariana-git
-- 👀 I’m interested in todo
-- 🌱 I’m currently learning programacion c#, slq server...
-- 💞️ I’m looking to collaborate on proyectos de codigo abierto
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning web development (CSS, HTML, JS), .NET (c#), slq server...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me via mail marianasayagosistemas@gmail.com
 
 <!---

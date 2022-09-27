@@ -1,8 +1,8 @@
 <div>
-    <div align='center'>
-    <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" width="400px">
-    </div>  
-    <h1> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mariana </h1>   
+<img align="right" width="250"  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+ 
+     
+# <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mariana 
   <div>
        <ul>
          <li>👀 I’m interested in backend development </li>

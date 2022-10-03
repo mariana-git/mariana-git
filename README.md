@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Python](http://img.shields.io/badge/-Python-DAD031?style=flat-square&logo=python)
 ![C Sharp](http://img.shields.io/badge/-C%20Sharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-the-badge&logo=markdown&logoColor=white)
 
 
 > Frameworks, Platforms and Libraries

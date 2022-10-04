@@ -1,13 +1,15 @@
-<div>
-<img align="right" width="250"  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
- 
-     
+<div  align="center">
+
 # <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Mariana 
+
+<img width="250"  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
          👀 I’m interested in backend development
          🌱 I’m currently learning web development
          💞️ I’m looking to collaborate on open source projects
          📫 How to reach me: marianasayagosistemas@gmail.com
-       
+         
+ </div>  
   <br /><br />
  
 # 🛠 Technologies
@@ -55,4 +57,4 @@
     </p>
   </div>
 
-</div>
+x

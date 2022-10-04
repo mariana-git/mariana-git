@@ -4,13 +4,14 @@
 
 <img width="250"  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-         👀 I’m interested in backend development
-         🌱 I’m currently learning web development
-         💞️ I’m looking to collaborate on open source projects
-         📫 How to reach me: marianasayagosistemas@gmail.com
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on open source projects
+- 🏠 I'm working exclusively Home Office
+- 📫 How to reach me: marianasayagosistemas@gmail.com
          
- </div>  
-  <br /><br />
+</div>  
+<br /><br />
  
 # 🛠 Technologies
 
@@ -57,4 +58,4 @@
     </p>
   </div>
 
-x
+

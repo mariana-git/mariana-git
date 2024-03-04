@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on open source projects
 - 🏠 I'm working exclusively Home Office
-- 📫 How to reach me: marianasayagosistemas@gmail.com
+- 📫 How to reach me: marianas.tec.ar@gmail.com
          
 </div>  
 <br /><br />
